@@ -1,0 +1,39 @@
+
+body { 
+  background: #bdc3c7;
+  padding: 40px; 
+  background-color: #566573;
+  margin-left: 430px;
+  width: 350px;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+}
+ h1 {
+    font-size: 56px;
+
+  }
+  
+  p
+  {
+    cursor: pointer;
+    border: groove;
+    width: 300px;
+  }
+
+  p:last-child
+  {
+    cursor: initial;
+    border-style: groove hidden hidden hidden;
+  }
+
+  b{
+    float: right;
+    padding-right: 5px;
+  }
+
+.active
+{
+  color: #AED6F1;
+}
+
